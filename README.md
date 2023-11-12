@@ -2,6 +2,8 @@
 
 ![Abdullah](https://cdn.metatime.com/landing/blog/1686575019blobid0.jpg "Abdullah")
 
+### السلام علیکم 
+
 :computer: _Software Engenieer  :desert_island:Living in Lahore 🇵🇰:
 
 ### My Tech Stack
