@@ -1,4 +1,4 @@
-## Hi I'm Abdullah 🧑‍💻:
+## Welcome to Abdullah's Github 💜
 
 ![Abdullah](https://cdn.metatime.com/landing/blog/1686575019blobid0.jpg "Abdullah")
 
