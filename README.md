@@ -54,10 +54,10 @@
 
 ## Connect with me 
 <p align="center" dir="auto">
-<a href="https://twitter.com/mianhunainhamza" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/19554120/honey" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/mianhunainhamza" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mianhunainhamzaa/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Abdulla16525496" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/22842387/abdullah-ahmad" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://web.facebook.com/profile.php?id=100005420028116" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/jutt_.abdullah/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
