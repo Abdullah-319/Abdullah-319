@@ -5,11 +5,12 @@
 <h1 align="center" id="user-content-اسلام-وعلیکم" dir="auto"><a class="heading-link" href="#اسلام-وعلیکم">اسلام وعلیکم<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
 
 
-
+<p align="center" dir="auto">
 <a href="https://twitter.com/Abdulla16525496" align="center"  target="_blank" rel="noopener noreferrer">
  <img src="https://camo.githubusercontent.com/819f839ede63bb4c6e06545e57d57cfd0b9fe7e83df57b35197b9193baf24fd6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d416264756c6c616825323041686d61642d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d666666666666" alt="Twitter">
     </a>
-   <br>
+</p>
+    
 :computer: _Software Engenieer  :desert_island:Living in Lahore 🇵🇰:
 
 ### My Tech Stack
@@ -50,6 +51,14 @@
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+## Connect with me 
+<p align="center" dir="auto">
+<a href="https://twitter.com/mianhunainhamza" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/19554120/honey" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/mianhunainhamza" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mianhunainhamzaa/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahahmad" height="30" width="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 🖤💙🤎🧡💚❤️
