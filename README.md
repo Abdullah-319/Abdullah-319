@@ -1,6 +1,6 @@
 ## Hi I'm Abdullah :fox_face:
 
-![Abdullah](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+![Abdullah](https://github.com/Abdullah/Abdullah/blob/master/github_cover.png "Abdullah")
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
