@@ -11,7 +11,7 @@
     </a>
 </p>
     
-:computer: _Software Engenieer  :desert_island:Living in Lahore 🇵🇰:
+:computer: _Software Engineer  :desert_island:Living in Lahore 🇵🇰:
 
 ### My Tech Stack
 
