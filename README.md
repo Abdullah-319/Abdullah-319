@@ -1,7 +1,7 @@
 # Welcome to Abdullah's Github 💜
 
 <div align="center">
-    <img src="[https://giphy.com/embed/f3iwJFOVOwuy7K6FFw](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5YmF1cmkxenYwenlqY2FqOXh1cTFsbnFqam1tNTIzZ2c1azVocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp)" width="100%" alt="Abdullah's GIF">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5YmF1cmkxenYwenlqY2FqOXh1cTFsbnFqam1tNTIzZ2c1azVocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width="100%" alt="Abdullah's GIF">
 </div>
 
 <h1 align="center" id="user-content-اسلام-وعلیکم" dir="auto">
