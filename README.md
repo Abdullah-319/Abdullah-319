@@ -1,7 +1,7 @@
 # Welcome to Abdullah's Github 💜
 
 <div align="center">
-    <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="400" style="border:none;" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw.gif" width="100%" height="400" style="border:none;" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <h1 align="center" id="user-content-اسلام-وعلیکم" dir="auto">
