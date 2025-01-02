@@ -4,7 +4,7 @@ Here's the updated GitHub README with the new GIF centered and set to take the f
 # Welcome to Abdullah's Github 💜
 
 <div align="center">
-    <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" alt="Abdullah's GIF">
+    <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw.gif" width="100%" alt="Abdullah's GIF">
 </div>
 
 <h1 align="center" id="user-content-اسلام-وعلیکم" dir="auto">
