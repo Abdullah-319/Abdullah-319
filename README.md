@@ -16,7 +16,7 @@
 🔭 I’m currently working on Software Dev & AI<br>👯 I’m looking to collaborate on AI & CV<br>🤝 I’m looking for help with ML, CV & AI<br>🌱 I’m currently learning AI <br>💬 Ask me about anything<br>⚡ Fun fact: Hard work beats the talent
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-ahmad-b879721a1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahahmad319.319@gmail.com) 
 
 # 💻 Tech Stack:
@@ -29,4 +29,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdullah-319&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+<p align="center" dir="auto">
+🖤💙🤎🧡💚❤
+</p>
